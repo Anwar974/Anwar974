@@ -13,3 +13,7 @@ I'm a passionate Developer specializing in Fullstack development.
 - LinkedIn: [Anwar Abo Alola](www.linkedin.com/in/anwar-abo-alola-6b92742a2)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anwar974&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar974&layout=compact&theme=radical&hide_border=true&langs_count=10)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anwar974&theme=radical&hide_border=true)
